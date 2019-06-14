@@ -1,0 +1,2 @@
+Tue, 11 Jun 2019 17:10:27 getBookDescribe.py[line:89] WARNING requests error for url:https://book.douban.com/subject/1001885, code:403
+Tue, 11 Jun 2019 17:10:27 getBookDescribe.py[line:91] WARNING requests is forbidden(403) for url:https://book.douban.com/subject/1001885, need regain ip.
